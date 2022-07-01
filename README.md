@@ -52,7 +52,8 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Cengizhnx&repo=Bgstatic&countColorcountColor&countColor=blue"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=Cengizhnx&color=blue" alt="watching_count" />
+
 
 <!--
 **Cengizhnx/Cengizhnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
