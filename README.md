@@ -3,8 +3,7 @@
 ## Skills
 
 <div align=left>
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark
-</div>
+[github_dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark</div>
 
 <div align=center>
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cengizhnx&langs_count=20&theme=github_dark&layout=compact&custom_title=Most used languages on GitHub" />
