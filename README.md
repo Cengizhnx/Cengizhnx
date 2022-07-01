@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[Schedule a meet with me](https://calendly.com/sudip-mondal-2002/15min)
+## Skills
+<div align=right>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
+    </a>
+</div>
+
 <!--
 **Cengizhnx/Cengizhnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
