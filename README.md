@@ -3,7 +3,7 @@
 ## Skills
 
 <div align=left>
-      <img align="center" width=100% src="https://github-readme-stats.vercel.app/api username=Cengizhnx&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" alt="zumrudu-anka" />
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark
 </div>
 
 <div align=center>
