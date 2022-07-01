@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-[Schedule a meet with me](https://calendly.com/sudip-mondal-2002/15min)
 ## Skills
 
 <div align=left>
-<github_dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark
+      <img align="center" width=100% src="https://github-readme-stats.vercel.app/api username=Cengizhnx&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" alt="zumrudu-anka" />
 </div>
 
 <div align=center>
