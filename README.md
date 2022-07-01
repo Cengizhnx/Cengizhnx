@@ -2,10 +2,8 @@
 
 [Schedule a meet with me](https://calendly.com/sudip-mondal-2002/15min)
 ## Skills
-<div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cengizhnx&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
-    </a>
+<div align=center>
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cengizhnx&langs_count=20&theme=github_dark&layout=compact&custom_title=Most used languages on GitHub" />
 </div>
 
 <!--
