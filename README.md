@@ -44,7 +44,15 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cengiz69mg@gmail.com)
   
 </div>
-      
+
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/tweckqs12xve2muli5gerbq3c)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Cengizhnx&repo=Bgstatic&countColorcountColor&countColor=blue"/>
 
 <!--
 **Cengizhnx/Cengizhnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,4 +67,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## I'm a Computer Science and Engineering Student  
+
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I love to play pool and snooker 🎱.
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+
 -->
