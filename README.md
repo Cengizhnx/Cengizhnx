@@ -15,14 +15,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <a href="https://www.w3schools.com/REACT/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://redux.js.org/tutorials/fundamentals/part-1-overview" target="_blank"> 
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" alt="redux" width="40" height="40"/> 
+  </a> 
   <a href="https://www.w3schools.com/bootstrap5/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap5" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="csharp" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/php/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
