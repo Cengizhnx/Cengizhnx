@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cengiz <img height="25" src="https://cdn3.emoji.gg/emojis/5591-discord-developer-badge-shimmer.gif"></h1>
 <h3 align="center">A Front-End (and a beginner designer) developer from Turkey  <img src="https://cdn3.emoji.gg/emojis/4110-turkeyflag.png" width="18px" height="18px" alt="TurkeyFlag""></h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&text=Hello!&height=100&section=header"/>
 </p>     
 <h1></h1>
 
