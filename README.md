@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="1500" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!👋&height=100&section=header&animation=twinkling"/>
-</p>
+<p align="center"> <img width="1500" src="https://media.licdn.com/dms/image/D4D16AQG-9MTTmzyC1g/profile-displaybackgroundimage-shrink_350_1400/0/1702985381648?e=1708560000&v=beta&t=-c-Pwv6B7G-MSUDGxMrSTLcSBpJ1UAKgcl4eBpif6Hw" alt="banner" /> </p>  
 <h2 align="center">I'm Cengiz <img height="17.5" src="https://cdn3.emoji.gg/emojis/5591-discord-developer-badge-shimmer.gif">
 A  Junior Software Developer from Turkey <img src="https://cdn3.emoji.gg/emojis/4110-turkeyflag.png" width="18px" height="18px" alt="TurkeyFlag""></h2>  
 <h3>- Continuously acquiring various trainings and developing projects, I am actively engaged in work within the fields of Frontend and Backend.</h3>
@@ -33,3 +31,4 @@ A  Junior Software Developer from Turkey <img src="https://cdn3.emoji.gg/emojis/
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cengizhnx&theme=dark" alt="cengizhnx" /></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cengizhnx&label=Profile%20views&color=0e75b6&style=flat" alt="cengizhnx" /> </p>  
+
