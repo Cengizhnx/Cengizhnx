@@ -1,4 +1,4 @@
-<p align="center"> <img width="1500" src="https://media.licdn.com/dms/image/D4D16AQG-9MTTmzyC1g/profile-displaybackgroundimage-shrink_350_1400/0/1702985381648?e=1727308800&v=beta&t=IAWMj18pHnvBqQyt1sNvM7KtId_sZMLUmjCIeKT_6Ec" alt="banner" /> </p>  
+<p align="center"> <img width="1500" src="https://media.licdn.com/dms/image/v2/D4D16AQG-9MTTmzyC1g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702985381648?e=1744848000&v=beta&t=hveeDKNfiEueC00cIKJvGSzrvh3Blm10Wp5wLygkWAM" alt="banner" /> </p>  
 <h2 align="center">I'm Cengiz <img height="17.5" src="https://cdn3.emoji.gg/emojis/5591-discord-developer-badge-shimmer.gif">
 A  Junior Software Developer from Turkey <img src="https://cdn3.emoji.gg/emojis/4110-turkeyflag.png" width="18px" height="18px" alt="TurkeyFlag""></h2>  
 <h3>- Continuously acquiring various trainings and developing projects, I am actively engaged in work within the fields of Frontend and Backend.</h3>
